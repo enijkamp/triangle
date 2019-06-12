@@ -1,6 +1,8 @@
 # Divergence Triangle for Joint Training of Generator Model, Energy-based Model, and Inference Model.
 
-Code accompanying https://arxiv.org/abs/1812.10907.
+## Publication.
+
+https://arxiv.org/abs/1812.10907.
 
     @article{han2018divergence,
       title={Divergence Triangle for Joint Training of Generator Model, Energy-based Model, and Inference Model},
@@ -9,7 +11,7 @@ Code accompanying https://arxiv.org/abs/1812.10907.
       year={2018}
     }
     
-# Training on CIFAR-10
+## Training on CIFAR-10.
 
 ```
 pip3 install -r requirements.txt
