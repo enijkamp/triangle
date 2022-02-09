@@ -1,5 +1,5 @@
 torch==1.1.0
 torchvision
-tensorflow-gpu==1.12.0
+tensorflow-gpu==2.5.3
 numpy
 scipy==1.2.0
